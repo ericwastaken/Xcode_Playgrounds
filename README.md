@@ -1,5 +1,5 @@
 # Xcode_Playgrounds
-A repo to store my Xcode Playgrounds for my reference and for anyone else's. All code in this repo is in Swift intended to be run in Apple Xcode Playgrounds, though the classes and methods should work fine in regular projects.
+A repo to store my Xcode Playgrounds for my reference and for anyone else's. All code in this repo is in Swift intended to be run in Apple Xcode Playgrounds, though the classes and methods should work fine in regular projects. As of last edit of this file, these were tested in Xcode 8 and the syntax is *mostly* Swift 3.
 
 ## Why?
 Folks want to see examples of code and style. This is that!
