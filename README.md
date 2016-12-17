@@ -1,5 +1,5 @@
 # Xcode_Playgrounds
-A repo to store my Xcode Playgrounds for my reference and for anyone else's.
+A repo to store my Xcode Playgrounds for my reference and for anyone else's. All code in this repo is in Swift intended to be run in Apple Xcode Playgrounds, though the classes and methods should work fine in regular projects.
 
 ## Why?
 Folks want to see examples of code and style. This is that!
@@ -15,3 +15,9 @@ Sure, I guess if you feel compelled, go for it. However, it might benefit more p
 
 ## There is better stuff out there
 Please check out [Swift Algorithm Club by Ray Wenderlich](https://github.com/raywenderlich/swift-algorithm-club) and contributors. Honestly, a lot of my algorithms are inspired by that repo.
+
+## About Eric
+Please visit [ericsoto.net](https://www.ericsoto.net/) for more information about me.
+
+## License
+See the LICENSE file on this repo.
