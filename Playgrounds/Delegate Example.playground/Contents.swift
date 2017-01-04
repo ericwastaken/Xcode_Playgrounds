@@ -2,16 +2,19 @@
 
 import Foundation
 
+// Define our first delegate (CarPainter)
 protocol CarPainterDelegate {
     func myCarWasPainted(color:String)
 }
 
+// Define our Car protocol
 protocol Car {
     var color: String {get}
     var brand: String {get}
     var model: String {get set}
 }
 
+// Create a Car Maintenance class
 class CarMaintenance {
     var carDelegate: CarPainterDelegate?
     
@@ -20,6 +23,7 @@ class CarMaintenance {
     }
 }
 
+// Create a specific Car's class that implements our protocols
 class MazdaRX7: Car, CarPainterDelegate, CustomStringConvertible {
     
     internal var brand: String = "Mazda"
@@ -40,6 +44,9 @@ let myCarShop = CarMaintenance()
 let myCar = MazdaRX7()
 myCarShop.carDelegate = myCar
 
+// Show the initial car color = White
 myCar.color
-myCarShop.paintCar(color: "red")
+// Now, have the Shop associated with this car paint it Red
+myCarShop.paintCar(color: "Red")
+// Show that the car object now shows color = Red
 myCar.color

@@ -1,7 +1,7 @@
 import Foundation
 import PlaygroundSupport
 
-// So that we can execute background and async tasks
+// So that we can get to the background and async tasks (playground won't stop after the main run loop)
 PlaygroundPage.current.needsIndefiniteExecution = true
 
 var someValue: Int = 0
@@ -18,7 +18,4 @@ DispatchQueue.global(qos:.background).asyncAfter(deadline: .now() + 5.0) {
 }
 
 print("Run Loop at start -> someValue initialized to: \(someValue)")
-
-
-
 
