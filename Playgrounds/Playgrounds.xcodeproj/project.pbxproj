@@ -27,7 +27,6 @@
 		0726D3391E1CA7350072FC11 /* Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Matrix.playground; sourceTree = "<group>"; };
 		0726D33A1E1CA7350072FC11 /* practice binary tree 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "practice binary tree 1.playground"; path = "Practice/practice binary tree 1.playground"; sourceTree = "<group>"; };
 		0726D33B1E1CA7350072FC11 /* Prime Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Prime Numbers.playground"; sourceTree = "<group>"; };
-		0726D33C1E1CA7350072FC11 /* Protocol Delegation Example.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Protocol Delegation Example.playground"; sourceTree = "<group>"; };
 		0726D33D1E1CA7350072FC11 /* Queue Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Queue Implementation.playground"; sourceTree = "<group>"; };
 		0726D33E1E1CA7350072FC11 /* Quick Sort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Quick Sort.playground"; sourceTree = "<group>"; };
 		0726D3401E1CA7350072FC11 /* Stack Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Stack Implementation.playground"; sourceTree = "<group>"; };
@@ -136,7 +135,6 @@
 			children = (
 				0726D32D1E1CA7350072FC11 /* Delegate Example.playground */,
 				0726D3301E1CA7350072FC11 /* GCD Example.playground */,
-				0726D33C1E1CA7350072FC11 /* Protocol Delegation Example.playground */,
 			);
 			name = Patterns;
 			sourceTree = "<group>";

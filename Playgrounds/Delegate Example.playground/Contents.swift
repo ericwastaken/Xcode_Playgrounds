@@ -6,6 +6,12 @@ protocol CarPainterDelegate {
     func myCarWasPainted(color:String)
 }
 
+protocol Car {
+    var color: String {get}
+    var brand: String {get}
+    var model: String {get set}
+}
+
 class CarMaintenance {
     var carDelegate: CarPainterDelegate?
     
@@ -14,8 +20,15 @@ class CarMaintenance {
     }
 }
 
-class Car: CarPainterDelegate {
-    var color: String?
+class MazdaRX7: Car, CarPainterDelegate, CustomStringConvertible {
+    
+    internal var brand: String = "Mazda"
+    internal var color: String = "White"
+    internal var model: String = "RX7"
+    
+    var description: String {
+        return "\(brand) \(model) \(color)"
+    }
     
     func myCarWasPainted(color: String) {
         self.color = color
@@ -24,7 +37,7 @@ class Car: CarPainterDelegate {
 
 // Setup our classes and tie them together via the protocol/delegate
 let myCarShop = CarMaintenance()
-let myCar = Car()
+let myCar = MazdaRX7()
 myCarShop.carDelegate = myCar
 
 myCar.color
