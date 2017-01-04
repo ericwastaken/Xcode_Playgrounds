@@ -3,6 +3,7 @@
 # Exclude 'practice' & 'interviews'
 Interviews/
 Practice/
+_scratchpad.playground
 
 # Xcode
 #
