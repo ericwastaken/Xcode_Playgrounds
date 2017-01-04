@@ -14,7 +14,7 @@ Probably not. I'm not making the claim that all of this is correct or 'best impl
 Sure, I guess if you feel compelled, go for it. However, it might benefit more people if you instead make PRs against the Swift Algorithm Club (see below.) My repo is probably not seen by many people. :-)
 
 ## There is better stuff out there
-Please check out [Swift Algorithm Club by Ray Wenderlich](https://github.com/raywenderlich/swift-algorithm-club) and contributors. Honestly, a lot of my algorithms are inspired by that repo.
+Please check out [Swift Algorithm Club by Ray Wenderlich](https://github.com/raywenderlich/swift-algorithm-club) and contributors. A lot of my examples are inspired by what I learned from that Repo.
 
 ## About Eric
 Please visit [ericsoto.net](https://www.ericsoto.net/) for more information about me.
