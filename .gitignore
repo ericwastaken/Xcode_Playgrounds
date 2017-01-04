@@ -1,3 +1,9 @@
+# Playgrounds Project Folder
+
+# Exclude 'practice' & 'interviews'
+Interviews/
+Practice/
+
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
