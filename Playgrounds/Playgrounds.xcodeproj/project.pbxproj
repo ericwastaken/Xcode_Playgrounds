@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0726D3251E1CA4950072FC11 /* Binary Search (Ipad).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Search (Ipad).playground"; sourceTree = "<group>"; };
+		0726D3261E1CA4950072FC11 /* Binary Tree Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Tree Implementation.playground"; sourceTree = "<group>"; };
+		0726D3271E1CA4950072FC11 /* Binary Tree Into List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Tree Into List.playground"; sourceTree = "<group>"; };
+		0726D3281E1CA4950072FC11 /* Binary Tree Search Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Tree Search Implementation.playground"; sourceTree = "<group>"; };
+		0726D32B1E1CA7350072FC11 /* Binary Tree IsBinaryTree (CCI).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Tree IsBinaryTree (CCI).playground"; sourceTree = "<group>"; };
+		0726D32C1E1CA7350072FC11 /* Character Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Character Arrays.playground"; sourceTree = "<group>"; };
+		0726D32D1E1CA7350072FC11 /* DelegateExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DelegateExample.playground; sourceTree = "<group>"; };
+		0726D32E1E1CA7350072FC11 /* DropBox_ImageCache.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = DropBox_ImageCache.playground; path = Interviews/DropBox_ImageCache.playground; sourceTree = "<group>"; };
+		0726D32F1E1CA7350072FC11 /* Facebook_NearbyWords.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Facebook_NearbyWords.playground; path = Interviews/Facebook_NearbyWords.playground; sourceTree = "<group>"; };
+		0726D3301E1CA7350072FC11 /* GCD_Examples.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GCD_Examples.playground; sourceTree = "<group>"; };
+		0726D3311E1CA7350072FC11 /* Array Sum (HackerRank).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Array Sum (HackerRank).playground"; sourceTree = "<group>"; };
+		0726D3321E1CA7350072FC11 /* Merge Sorted Linked Lists (HackerRank).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Merge Sorted Linked Lists (HackerRank).playground"; sourceTree = "<group>"; };
+		0726D3331E1CA7350072FC11 /* Hash Table Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Hash Table Implementation.playground"; sourceTree = "<group>"; };
+		0726D3341E1CA7350072FC11 /* Insertion Sort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Insertion Sort.playground"; sourceTree = "<group>"; };
+		0726D3351E1CA7350072FC11 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		0726D3361E1CA7350072FC11 /* Linear Search Ipad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Linear Search Ipad.playground"; sourceTree = "<group>"; };
+		0726D3371E1CA7350072FC11 /* Linked List Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Linked List Implementation.playground"; sourceTree = "<group>"; };
+		0726D3381E1CA7350072FC11 /* Linked List Implementation (Ipad).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Linked List Implementation (Ipad).playground"; sourceTree = "<group>"; };
+		0726D3391E1CA7350072FC11 /* MatrixExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MatrixExample.playground; sourceTree = "<group>"; };
+		0726D33A1E1CA7350072FC11 /* practice binary tree 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "practice binary tree 1.playground"; path = "Practice/practice binary tree 1.playground"; sourceTree = "<group>"; };
+		0726D33B1E1CA7350072FC11 /* Prime Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Prime Numbers.playground"; sourceTree = "<group>"; };
+		0726D33C1E1CA7350072FC11 /* ProtocolsDelegationExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolsDelegationExample.playground; sourceTree = "<group>"; };
+		0726D33D1E1CA7350072FC11 /* Queue Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Queue Implementation.playground"; sourceTree = "<group>"; };
+		0726D33E1E1CA7350072FC11 /* Quick Sort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Quick Sort.playground"; sourceTree = "<group>"; };
+		0726D33F1E1CA7350072FC11 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0726D3401E1CA7350072FC11 /* Stack Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Stack Implementation.playground"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0726D31E1E1CA4610072FC11 = {
+			isa = PBXGroup;
+			children = (
+				0726D3421E1CA79C0072FC11 /* Algorithms */,
+				0726D3411E1CA78E0072FC11 /* Data Structures */,
+				0726D3481E1CA8EB0072FC11 /* Patterns */,
+				0726D3441E1CA8010072FC11 /* Practice */,
+				0726D34C1E1CAA2D0072FC11 /* Interviews */,
+				0726D3351E1CA7350072FC11 /* LICENSE */,
+				0726D33F1E1CA7350072FC11 /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+		0726D3291E1CA6900072FC11 /* Binary Trees */ = {
+			isa = PBXGroup;
+			children = (
+				0726D3261E1CA4950072FC11 /* Binary Tree Implementation.playground */,
+				0726D3271E1CA4950072FC11 /* Binary Tree Into List.playground */,
+				0726D3281E1CA4950072FC11 /* Binary Tree Search Implementation.playground */,
+				0726D32B1E1CA7350072FC11 /* Binary Tree IsBinaryTree (CCI).playground */,
+			);
+			name = "Binary Trees";
+			sourceTree = "<group>";
+		};
+		0726D32A1E1CA6F30072FC11 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				0726D3251E1CA4950072FC11 /* Binary Search (Ipad).playground */,
+				0726D3361E1CA7350072FC11 /* Linear Search Ipad.playground */,
+			);
+			name = Search;
+			sourceTree = "<group>";
+		};
+		0726D3411E1CA78E0072FC11 /* Data Structures */ = {
+			isa = PBXGroup;
+			children = (
+				0726D3451E1CA8460072FC11 /* Arrays */,
+				0726D3291E1CA6900072FC11 /* Binary Trees */,
+				0726D3471E1CA8BC0072FC11 /* Hash Tables */,
+				0726D34A1E1CA93C0072FC11 /* Linked Lists */,
+				0726D3491E1CA9150072FC11 /* Queues */,
+				0726D3461E1CA8990072FC11 /* Stacks */,
+			);
+			name = "Data Structures";
+			sourceTree = "<group>";
+		};
+		0726D3421E1CA79C0072FC11 /* Algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				0726D32A1E1CA6F30072FC11 /* Search */,
+				0726D3431E1CA7BD0072FC11 /* Sort */,
+				0726D34B1E1CA9A40072FC11 /* Other */,
+			);
+			name = Algorithms;
+			sourceTree = "<group>";
+		};
+		0726D3431E1CA7BD0072FC11 /* Sort */ = {
+			isa = PBXGroup;
+			children = (
+				0726D33E1E1CA7350072FC11 /* Quick Sort.playground */,
+				0726D3341E1CA7350072FC11 /* Insertion Sort.playground */,
+			);
+			name = Sort;
+			sourceTree = "<group>";
+		};
+		0726D3441E1CA8010072FC11 /* Practice */ = {
+			isa = PBXGroup;
+			children = (
+				0726D33A1E1CA7350072FC11 /* practice binary tree 1.playground */,
+			);
+			name = Practice;
+			sourceTree = "<group>";
+		};
+		0726D3451E1CA8460072FC11 /* Arrays */ = {
+			isa = PBXGroup;
+			children = (
+				0726D32C1E1CA7350072FC11 /* Character Arrays.playground */,
+				0726D3311E1CA7350072FC11 /* Array Sum (HackerRank).playground */,
+				0726D3391E1CA7350072FC11 /* MatrixExample.playground */,
+			);
+			name = Arrays;
+			sourceTree = "<group>";
+		};
+		0726D3461E1CA8990072FC11 /* Stacks */ = {
+			isa = PBXGroup;
+			children = (
+				0726D3401E1CA7350072FC11 /* Stack Implementation.playground */,
+			);
+			name = Stacks;
+			sourceTree = "<group>";
+		};
+		0726D3471E1CA8BC0072FC11 /* Hash Tables */ = {
+			isa = PBXGroup;
+			children = (
+				0726D3331E1CA7350072FC11 /* Hash Table Implementation.playground */,
+			);
+			name = "Hash Tables";
+			sourceTree = "<group>";
+		};
+		0726D3481E1CA8EB0072FC11 /* Patterns */ = {
+			isa = PBXGroup;
+			children = (
+				0726D32D1E1CA7350072FC11 /* DelegateExample.playground */,
+				0726D3301E1CA7350072FC11 /* GCD_Examples.playground */,
+				0726D33C1E1CA7350072FC11 /* ProtocolsDelegationExample.playground */,
+			);
+			name = Patterns;
+			sourceTree = "<group>";
+		};
+		0726D3491E1CA9150072FC11 /* Queues */ = {
+			isa = PBXGroup;
+			children = (
+				0726D33D1E1CA7350072FC11 /* Queue Implementation.playground */,
+			);
+			name = Queues;
+			sourceTree = "<group>";
+		};
+		0726D34A1E1CA93C0072FC11 /* Linked Lists */ = {
+			isa = PBXGroup;
+			children = (
+				0726D3371E1CA7350072FC11 /* Linked List Implementation.playground */,
+				0726D3381E1CA7350072FC11 /* Linked List Implementation (Ipad).playground */,
+				0726D3321E1CA7350072FC11 /* Merge Sorted Linked Lists (HackerRank).playground */,
+			);
+			name = "Linked Lists";
+			sourceTree = "<group>";
+		};
+		0726D34B1E1CA9A40072FC11 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				0726D33B1E1CA7350072FC11 /* Prime Numbers.playground */,
+			);
+			name = Other;
+			sourceTree = "<group>";
+		};
+		0726D34C1E1CAA2D0072FC11 /* Interviews */ = {
+			isa = PBXGroup;
+			children = (
+				0726D32E1E1CA7350072FC11 /* DropBox_ImageCache.playground */,
+				0726D32F1E1CA7350072FC11 /* Facebook_NearbyWords.playground */,
+			);
+			name = Interviews;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0726D31F1E1CA4610072FC11 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+			};
+			buildConfigurationList = 0726D3221E1CA4610072FC11 /* Build configuration list for PBXProject "Playgrounds" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0726D31E1E1CA4610072FC11;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0726D3231E1CA4610072FC11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0726D3241E1CA4610072FC11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0726D3221E1CA4610072FC11 /* Build configuration list for PBXProject "Playgrounds" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0726D3231E1CA4610072FC11 /* Debug */,
+				0726D3241E1CA4610072FC11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0726D31F1E1CA4610072FC11 /* Project object */;
+}
