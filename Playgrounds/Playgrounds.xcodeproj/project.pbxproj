@@ -13,10 +13,10 @@
 		0726D3281E1CA4950072FC11 /* Binary Tree Search Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Tree Search Implementation.playground"; sourceTree = "<group>"; };
 		0726D32B1E1CA7350072FC11 /* Binary Tree IsBinaryTree (CCI).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Tree IsBinaryTree (CCI).playground"; sourceTree = "<group>"; };
 		0726D32C1E1CA7350072FC11 /* Character Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Character Arrays.playground"; sourceTree = "<group>"; };
-		0726D32D1E1CA7350072FC11 /* DelegateExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DelegateExample.playground; sourceTree = "<group>"; };
+		0726D32D1E1CA7350072FC11 /* Delegate Example.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Delegate Example.playground"; sourceTree = "<group>"; };
 		0726D32E1E1CA7350072FC11 /* DropBox_ImageCache.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = DropBox_ImageCache.playground; path = Interviews/DropBox_ImageCache.playground; sourceTree = "<group>"; };
 		0726D32F1E1CA7350072FC11 /* Facebook_NearbyWords.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Facebook_NearbyWords.playground; path = Interviews/Facebook_NearbyWords.playground; sourceTree = "<group>"; };
-		0726D3301E1CA7350072FC11 /* GCD_Examples.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GCD_Examples.playground; sourceTree = "<group>"; };
+		0726D3301E1CA7350072FC11 /* GCD Example.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "GCD Example.playground"; sourceTree = "<group>"; };
 		0726D3311E1CA7350072FC11 /* Array Sum (HackerRank).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Array Sum (HackerRank).playground"; sourceTree = "<group>"; };
 		0726D3321E1CA7350072FC11 /* Merge Sorted Linked Lists (HackerRank).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Merge Sorted Linked Lists (HackerRank).playground"; sourceTree = "<group>"; };
 		0726D3331E1CA7350072FC11 /* Hash Table Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Hash Table Implementation.playground"; sourceTree = "<group>"; };
@@ -24,10 +24,10 @@
 		0726D3361E1CA7350072FC11 /* Linear Search Ipad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Linear Search Ipad.playground"; sourceTree = "<group>"; };
 		0726D3371E1CA7350072FC11 /* Linked List Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Linked List Implementation.playground"; sourceTree = "<group>"; };
 		0726D3381E1CA7350072FC11 /* Linked List Implementation (Ipad).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Linked List Implementation (Ipad).playground"; sourceTree = "<group>"; };
-		0726D3391E1CA7350072FC11 /* MatrixExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MatrixExample.playground; sourceTree = "<group>"; };
+		0726D3391E1CA7350072FC11 /* Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Matrix.playground; sourceTree = "<group>"; };
 		0726D33A1E1CA7350072FC11 /* practice binary tree 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "practice binary tree 1.playground"; path = "Practice/practice binary tree 1.playground"; sourceTree = "<group>"; };
 		0726D33B1E1CA7350072FC11 /* Prime Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Prime Numbers.playground"; sourceTree = "<group>"; };
-		0726D33C1E1CA7350072FC11 /* ProtocolsDelegationExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolsDelegationExample.playground; sourceTree = "<group>"; };
+		0726D33C1E1CA7350072FC11 /* Protocol Delegation Example.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Protocol Delegation Example.playground"; sourceTree = "<group>"; };
 		0726D33D1E1CA7350072FC11 /* Queue Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Queue Implementation.playground"; sourceTree = "<group>"; };
 		0726D33E1E1CA7350072FC11 /* Quick Sort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Quick Sort.playground"; sourceTree = "<group>"; };
 		0726D3401E1CA7350072FC11 /* Stack Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Stack Implementation.playground"; sourceTree = "<group>"; };
@@ -110,7 +110,7 @@
 			children = (
 				0726D32C1E1CA7350072FC11 /* Character Arrays.playground */,
 				0726D3311E1CA7350072FC11 /* Array Sum (HackerRank).playground */,
-				0726D3391E1CA7350072FC11 /* MatrixExample.playground */,
+				0726D3391E1CA7350072FC11 /* Matrix.playground */,
 			);
 			name = Arrays;
 			sourceTree = "<group>";
@@ -134,9 +134,9 @@
 		0726D3481E1CA8EB0072FC11 /* Patterns */ = {
 			isa = PBXGroup;
 			children = (
-				0726D32D1E1CA7350072FC11 /* DelegateExample.playground */,
-				0726D3301E1CA7350072FC11 /* GCD_Examples.playground */,
-				0726D33C1E1CA7350072FC11 /* ProtocolsDelegationExample.playground */,
+				0726D32D1E1CA7350072FC11 /* Delegate Example.playground */,
+				0726D3301E1CA7350072FC11 /* GCD Example.playground */,
+				0726D33C1E1CA7350072FC11 /* Protocol Delegation Example.playground */,
 			);
 			name = Patterns;
 			sourceTree = "<group>";
