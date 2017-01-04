@@ -21,7 +21,6 @@
 		0726D3321E1CA7350072FC11 /* Merge Sorted Linked Lists (HackerRank).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Merge Sorted Linked Lists (HackerRank).playground"; sourceTree = "<group>"; };
 		0726D3331E1CA7350072FC11 /* Hash Table Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Hash Table Implementation.playground"; sourceTree = "<group>"; };
 		0726D3341E1CA7350072FC11 /* Insertion Sort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Insertion Sort.playground"; sourceTree = "<group>"; };
-		0726D3351E1CA7350072FC11 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		0726D3361E1CA7350072FC11 /* Linear Search Ipad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Linear Search Ipad.playground"; sourceTree = "<group>"; };
 		0726D3371E1CA7350072FC11 /* Linked List Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Linked List Implementation.playground"; sourceTree = "<group>"; };
 		0726D3381E1CA7350072FC11 /* Linked List Implementation (Ipad).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Linked List Implementation (Ipad).playground"; sourceTree = "<group>"; };
@@ -31,7 +30,6 @@
 		0726D33C1E1CA7350072FC11 /* ProtocolsDelegationExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolsDelegationExample.playground; sourceTree = "<group>"; };
 		0726D33D1E1CA7350072FC11 /* Queue Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Queue Implementation.playground"; sourceTree = "<group>"; };
 		0726D33E1E1CA7350072FC11 /* Quick Sort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Quick Sort.playground"; sourceTree = "<group>"; };
-		0726D33F1E1CA7350072FC11 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0726D3401E1CA7350072FC11 /* Stack Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Stack Implementation.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -44,8 +42,6 @@
 				0726D3481E1CA8EB0072FC11 /* Patterns */,
 				0726D3441E1CA8010072FC11 /* Practice */,
 				0726D34C1E1CAA2D0072FC11 /* Interviews */,
-				0726D3351E1CA7350072FC11 /* LICENSE */,
-				0726D33F1E1CA7350072FC11 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
