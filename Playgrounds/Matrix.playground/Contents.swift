@@ -32,7 +32,7 @@ import Foundation
  However, I still implemented:
     * a class to hold a Matrix 
     * methods in the class to output the matrix in useful ways, including a linear array output, albeit "in order".
-    * a method linearArraySpecialOrder that uses a helper function to output in an "agorithmic" order (though not the sequence provided since I could not visualize it.)
+    * a method linearArraySpecialOrder that uses a helper function to output in an "algorithmic" order (though not the sequence provided since I could not visualize it.)
  
  Please note the "running code" after the class definition!
  

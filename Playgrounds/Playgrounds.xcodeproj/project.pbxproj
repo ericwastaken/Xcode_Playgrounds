@@ -30,6 +30,8 @@
 		0726D33D1E1CA7350072FC11 /* Queue Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Queue Implementation.playground"; sourceTree = "<group>"; };
 		0726D33E1E1CA7350072FC11 /* Quick Sort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Quick Sort.playground"; sourceTree = "<group>"; };
 		0726D3401E1CA7350072FC11 /* Stack Implementation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Stack Implementation.playground"; sourceTree = "<group>"; };
+		072ADE9B1E23FBD900EA6CC6 /* GCD Operations Queue Example.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "GCD Operations Queue Example.playground"; sourceTree = "<group>"; };
+		07D7C4C91E2208870082D52A /* GCD Custom Queue.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "GCD Custom Queue.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -133,8 +135,10 @@
 		0726D3481E1CA8EB0072FC11 /* Patterns */ = {
 			isa = PBXGroup;
 			children = (
+				072ADE9B1E23FBD900EA6CC6 /* GCD Operations Queue Example.playground */,
 				0726D32D1E1CA7350072FC11 /* Delegate Example.playground */,
 				0726D3301E1CA7350072FC11 /* GCD Example.playground */,
+				07D7C4C91E2208870082D52A /* GCD Custom Queue.playground */,
 			);
 			name = Patterns;
 			sourceTree = "<group>";
